@@ -1591,5 +1591,2082 @@
     "minor_league": false,
     "international_signing": true,
     "signing_country": "Puerto Rico"
+  },
+  {
+    "name": "Ken Griffey Jr.",
+    "bwar": 83.8,
+    "fwar": 83.8,
+    "teams": [
+      "Seattle Mariners",
+      "Cincinnati Reds",
+      "Chicago White Sox"
+    ],
+    "positions": [
+      "CF",
+      "OF"
+    ],
+    "years_active": [
+      "1989",
+      "2010"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Frank Thomas",
+    "bwar": 73.8,
+    "fwar": 73.8,
+    "teams": [
+      "Chicago White Sox",
+      "Oakland Athletics",
+      "Toronto Blue Jays"
+    ],
+    "positions": [
+      "1B",
+      "DH"
+    ],
+    "years_active": [
+      "1990",
+      "2008"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Chipper Jones",
+    "bwar": 85.0,
+    "fwar": 85.0,
+    "teams": [
+      "Atlanta Braves"
+    ],
+    "positions": [
+      "3B",
+      "LF"
+    ],
+    "years_active": [
+      "1993",
+      "2012"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Jeff Bagwell",
+    "bwar": 79.9,
+    "fwar": 79.9,
+    "teams": [
+      "Houston Astros"
+    ],
+    "positions": [
+      "1B"
+    ],
+    "years_active": [
+      "1991",
+      "2005"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Craig Biggio",
+    "bwar": 65.5,
+    "fwar": 65.5,
+    "teams": [
+      "Houston Astros"
+    ],
+    "positions": [
+      "2B",
+      "C",
+      "CF"
+    ],
+    "years_active": [
+      "1988",
+      "2007"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Tony Gwynn",
+    "bwar": 69.2,
+    "fwar": 69.2,
+    "teams": [
+      "San Diego Padres"
+    ],
+    "positions": [
+      "RF",
+      "OF"
+    ],
+    "years_active": [
+      "1982",
+      "2001"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Wade Boggs",
+    "bwar": 91.4,
+    "fwar": 91.4,
+    "teams": [
+      "Boston Red Sox",
+      "New York Yankees",
+      "Tampa Bay Devil Rays"
+    ],
+    "positions": [
+      "3B"
+    ],
+    "years_active": [
+      "1982",
+      "1999"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "George Brett",
+    "bwar": 88.6,
+    "fwar": 88.6,
+    "teams": [
+      "Kansas City Royals"
+    ],
+    "positions": [
+      "3B",
+      "1B"
+    ],
+    "years_active": [
+      "1973",
+      "1993"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Paul Molitor",
+    "bwar": 75.7,
+    "fwar": 75.7,
+    "teams": [
+      "Milwaukee Brewers",
+      "Toronto Blue Jays",
+      "Minnesota Twins"
+    ],
+    "positions": [
+      "3B",
+      "DH",
+      "2B"
+    ],
+    "years_active": [
+      "1978",
+      "1998"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Eddie Murray",
+    "bwar": 68.4,
+    "fwar": 68.4,
+    "teams": [
+      "Baltimore Orioles",
+      "Los Angeles Dodgers",
+      "New York Mets",
+      "Cleveland Guardians",
+      "Anaheim Angels"
+    ],
+    "positions": [
+      "1B",
+      "DH"
+    ],
+    "years_active": [
+      "1977",
+      "1997"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Dave Winfield",
+    "bwar": 64.2,
+    "fwar": 64.2,
+    "teams": [
+      "San Diego Padres",
+      "New York Yankees",
+      "California Angels",
+      "Toronto Blue Jays",
+      "Minnesota Twins",
+      "Cleveland Guardians"
+    ],
+    "positions": [
+      "RF",
+      "OF",
+      "DH"
+    ],
+    "years_active": [
+      "1973",
+      "1995"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Jim Thome",
+    "bwar": 72.9,
+    "fwar": 72.9,
+    "teams": [
+      "Cleveland Guardians",
+      "Philadelphia Phillies",
+      "Chicago White Sox",
+      "Los Angeles Dodgers",
+      "Minnesota Twins",
+      "Baltimore Orioles"
+    ],
+    "positions": [
+      "1B",
+      "DH",
+      "3B"
+    ],
+    "years_active": [
+      "1991",
+      "2012"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Mike Piazza",
+    "bwar": 59.5,
+    "fwar": 59.5,
+    "teams": [
+      "Los Angeles Dodgers",
+      "Florida Marlins",
+      "New York Mets",
+      "San Diego Padres",
+      "Oakland Athletics"
+    ],
+    "positions": [
+      "C"
+    ],
+    "years_active": [
+      "1992",
+      "2007"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Gary Carter",
+    "bwar": 70.1,
+    "fwar": 70.1,
+    "teams": [
+      "Montreal Expos",
+      "New York Mets",
+      "San Francisco Giants",
+      "Los Angeles Dodgers"
+    ],
+    "positions": [
+      "C"
+    ],
+    "years_active": [
+      "1974",
+      "1992"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Johnny Bench",
+    "bwar": 75.2,
+    "fwar": 75.2,
+    "teams": [
+      "Cincinnati Reds"
+    ],
+    "positions": [
+      "C"
+    ],
+    "years_active": [
+      "1967",
+      "1983"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Carlton Fisk",
+    "bwar": 68.4,
+    "fwar": 68.4,
+    "teams": [
+      "Boston Red Sox",
+      "Chicago White Sox"
+    ],
+    "positions": [
+      "C"
+    ],
+    "years_active": [
+      "1969",
+      "1993"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Yogi Berra",
+    "bwar": 59.5,
+    "fwar": 59.5,
+    "teams": [
+      "New York Yankees",
+      "New York Mets"
+    ],
+    "positions": [
+      "C",
+      "OF"
+    ],
+    "years_active": [
+      "1946",
+      "1965"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Roy Campanella",
+    "bwar": 36.3,
+    "fwar": 36.3,
+    "teams": [
+      "Brooklyn Dodgers"
+    ],
+    "positions": [
+      "C"
+    ],
+    "years_active": [
+      "1948",
+      "1957"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Josh Gibson",
+    "bwar": 0.0,
+    "fwar": 0.0,
+    "teams": [
+      "Homestead Grays",
+      "Pittsburgh Crawfords"
+    ],
+    "positions": [
+      "C"
+    ],
+    "years_active": [
+      "1930",
+      "1946"
+    ],
+    "minor_league": true,
+    "international_signing": false
+  },
+  {
+    "name": "Joe Morgan",
+    "bwar": 100.5,
+    "fwar": 100.5,
+    "teams": [
+      "Houston Astros",
+      "Cincinnati Reds",
+      "San Francisco Giants",
+      "Philadelphia Phillies",
+      "Oakland Athletics"
+    ],
+    "positions": [
+      "2B"
+    ],
+    "years_active": [
+      "1963",
+      "1984"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Ryne Sandberg",
+    "bwar": 68.0,
+    "fwar": 68.0,
+    "teams": [
+      "Chicago Cubs",
+      "Philadelphia Phillies"
+    ],
+    "positions": [
+      "2B"
+    ],
+    "years_active": [
+      "1981",
+      "1997"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Roberto Alomar",
+    "bwar": 67.0,
+    "fwar": 67.0,
+    "teams": [
+      "San Diego Padres",
+      "Toronto Blue Jays",
+      "Baltimore Orioles",
+      "Cleveland Guardians",
+      "New York Mets",
+      "Chicago White Sox",
+      "Arizona Diamondbacks"
+    ],
+    "positions": [
+      "2B"
+    ],
+    "years_active": [
+      "1988",
+      "2004"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Puerto Rico"
+  },
+  {
+    "name": "Jackie Robinson",
+    "bwar": 61.5,
+    "fwar": 61.5,
+    "teams": [
+      "Brooklyn Dodgers"
+    ],
+    "positions": [
+      "2B",
+      "3B",
+      "1B"
+    ],
+    "years_active": [
+      "1947",
+      "1956"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Nap Lajoie",
+    "bwar": 107.4,
+    "fwar": 107.4,
+    "teams": [
+      "Philadelphia Phillies",
+      "Philadelphia Athletics",
+      "Cleveland Naps"
+    ],
+    "positions": [
+      "2B",
+      "1B"
+    ],
+    "years_active": [
+      "1896",
+      "1916"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Charlie Gehringer",
+    "bwar": 80.7,
+    "fwar": 80.7,
+    "teams": [
+      "Detroit Tigers"
+    ],
+    "positions": [
+      "2B"
+    ],
+    "years_active": [
+      "1924",
+      "1942"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Frankie Frisch",
+    "bwar": 70.4,
+    "fwar": 70.4,
+    "teams": [
+      "New York Giants",
+      "St. Louis Cardinals"
+    ],
+    "positions": [
+      "2B",
+      "3B"
+    ],
+    "years_active": [
+      "1919",
+      "1937"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Brooks Robinson",
+    "bwar": 78.4,
+    "fwar": 78.4,
+    "teams": [
+      "Baltimore Orioles"
+    ],
+    "positions": [
+      "3B"
+    ],
+    "years_active": [
+      "1955",
+      "1977"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Mike Schmidt",
+    "bwar": 106.8,
+    "fwar": 106.8,
+    "teams": [
+      "Philadelphia Phillies"
+    ],
+    "positions": [
+      "3B"
+    ],
+    "years_active": [
+      "1972",
+      "1989"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "George Kell",
+    "bwar": 37.4,
+    "fwar": 37.4,
+    "teams": [
+      "Philadelphia Athletics",
+      "Detroit Tigers",
+      "Boston Red Sox",
+      "Chicago White Sox",
+      "Baltimore Orioles"
+    ],
+    "positions": [
+      "3B"
+    ],
+    "years_active": [
+      "1943",
+      "1957"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Eddie Mathews",
+    "bwar": 96.4,
+    "fwar": 96.4,
+    "teams": [
+      "Boston Braves",
+      "Milwaukee Braves",
+      "Atlanta Braves",
+      "Houston Astros",
+      "Detroit Tigers"
+    ],
+    "positions": [
+      "3B"
+    ],
+    "years_active": [
+      "1952",
+      "1968"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Wade Boggs",
+    "bwar": 91.4,
+    "fwar": 91.4,
+    "teams": [
+      "Boston Red Sox",
+      "New York Yankees",
+      "Tampa Bay Devil Rays"
+    ],
+    "positions": [
+      "3B"
+    ],
+    "years_active": [
+      "1982",
+      "1999"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Ernie Banks",
+    "bwar": 67.5,
+    "fwar": 67.5,
+    "teams": [
+      "Chicago Cubs"
+    ],
+    "positions": [
+      "SS",
+      "1B"
+    ],
+    "years_active": [
+      "1953",
+      "1971"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Ozzie Smith",
+    "bwar": 76.9,
+    "fwar": 76.9,
+    "teams": [
+      "San Diego Padres",
+      "St. Louis Cardinals"
+    ],
+    "positions": [
+      "SS"
+    ],
+    "years_active": [
+      "1978",
+      "1996"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Robin Yount",
+    "bwar": 77.3,
+    "fwar": 77.3,
+    "teams": [
+      "Milwaukee Brewers"
+    ],
+    "positions": [
+      "SS",
+      "CF"
+    ],
+    "years_active": [
+      "1974",
+      "1993"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Alan Trammell",
+    "bwar": 70.4,
+    "fwar": 70.4,
+    "teams": [
+      "Detroit Tigers"
+    ],
+    "positions": [
+      "SS"
+    ],
+    "years_active": [
+      "1977",
+      "1996"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Barry Larkin",
+    "bwar": 70.5,
+    "fwar": 70.5,
+    "teams": [
+      "Cincinnati Reds"
+    ],
+    "positions": [
+      "SS"
+    ],
+    "years_active": [
+      "1986",
+      "2004"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Pee Wee Reese",
+    "bwar": 66.4,
+    "fwar": 66.4,
+    "teams": [
+      "Brooklyn Dodgers",
+      "Los Angeles Dodgers"
+    ],
+    "positions": [
+      "SS"
+    ],
+    "years_active": [
+      "1940",
+      "1958"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Arky Vaughan",
+    "bwar": 72.8,
+    "fwar": 72.8,
+    "teams": [
+      "Pittsburgh Pirates",
+      "Brooklyn Dodgers"
+    ],
+    "positions": [
+      "SS"
+    ],
+    "years_active": [
+      "1932",
+      "1948"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Luke Appling",
+    "bwar": 74.5,
+    "fwar": 74.5,
+    "teams": [
+      "Chicago White Sox"
+    ],
+    "positions": [
+      "SS"
+    ],
+    "years_active": [
+      "1930",
+      "1950"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Joe DiMaggio",
+    "bwar": 78.1,
+    "fwar": 78.1,
+    "teams": [
+      "New York Yankees"
+    ],
+    "positions": [
+      "CF",
+      "OF"
+    ],
+    "years_active": [
+      "1936",
+      "1951"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Duke Snider",
+    "bwar": 66.5,
+    "fwar": 66.5,
+    "teams": [
+      "Brooklyn Dodgers",
+      "Los Angeles Dodgers",
+      "New York Mets",
+      "San Francisco Giants"
+    ],
+    "positions": [
+      "CF",
+      "OF"
+    ],
+    "years_active": [
+      "1947",
+      "1964"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Kirby Puckett",
+    "bwar": 51.1,
+    "fwar": 51.1,
+    "teams": [
+      "Minnesota Twins"
+    ],
+    "positions": [
+      "CF",
+      "OF"
+    ],
+    "years_active": [
+      "1984",
+      "1995"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Andruw Jones",
+    "bwar": 62.8,
+    "fwar": 62.8,
+    "teams": [
+      "Atlanta Braves",
+      "Los Angeles Dodgers",
+      "Texas Rangers",
+      "Chicago White Sox",
+      "New York Yankees"
+    ],
+    "positions": [
+      "CF",
+      "OF"
+    ],
+    "years_active": [
+      "1996",
+      "2012"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Curacao"
+  },
+  {
+    "name": "Jim Edmonds",
+    "bwar": 60.4,
+    "fwar": 60.4,
+    "teams": [
+      "California Angels",
+      "St. Louis Cardinals",
+      "San Diego Padres",
+      "Chicago Cubs",
+      "Milwaukee Brewers",
+      "Cincinnati Reds"
+    ],
+    "positions": [
+      "CF",
+      "OF"
+    ],
+    "years_active": [
+      "1993",
+      "2010"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Kenny Lofton",
+    "bwar": 68.3,
+    "fwar": 68.3,
+    "teams": [
+      "Cleveland Guardians",
+      "Atlanta Braves",
+      "Cleveland Indians",
+      "San Francisco Giants",
+      "Pittsburgh Pirates",
+      "Chicago Cubs",
+      "New York Yankees",
+      "Philadelphia Phillies",
+      "Los Angeles Dodgers",
+      "Texas Rangers"
+    ],
+    "positions": [
+      "CF",
+      "OF"
+    ],
+    "years_active": [
+      "1991",
+      "2007"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Al Kaline",
+    "bwar": 92.8,
+    "fwar": 92.8,
+    "teams": [
+      "Detroit Tigers"
+    ],
+    "positions": [
+      "RF",
+      "OF"
+    ],
+    "years_active": [
+      "1953",
+      "1974"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Reggie Jackson",
+    "bwar": 73.9,
+    "fwar": 73.9,
+    "teams": [
+      "Kansas City Athletics",
+      "Oakland Athletics",
+      "Baltimore Orioles",
+      "New York Yankees",
+      "California Angels"
+    ],
+    "positions": [
+      "RF",
+      "OF",
+      "DH"
+    ],
+    "years_active": [
+      "1967",
+      "1987"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Dave Parker",
+    "bwar": 40.1,
+    "fwar": 40.1,
+    "teams": [
+      "Pittsburgh Pirates",
+      "Cincinnati Reds",
+      "Oakland Athletics",
+      "Milwaukee Brewers",
+      "California Angels",
+      "Toronto Blue Jays"
+    ],
+    "positions": [
+      "RF",
+      "OF",
+      "DH"
+    ],
+    "years_active": [
+      "1973",
+      "1991"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Larry Walker",
+    "bwar": 72.7,
+    "fwar": 72.7,
+    "teams": [
+      "Montreal Expos",
+      "Colorado Rockies",
+      "St. Louis Cardinals"
+    ],
+    "positions": [
+      "RF",
+      "OF"
+    ],
+    "years_active": [
+      "1989",
+      "2005"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Sammy Sosa",
+    "bwar": 58.6,
+    "fwar": 58.6,
+    "teams": [
+      "Texas Rangers",
+      "Chicago White Sox",
+      "Chicago Cubs",
+      "Baltimore Orioles"
+    ],
+    "positions": [
+      "RF",
+      "OF"
+    ],
+    "years_active": [
+      "1989",
+      "2007"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Dominican Republic"
+  },
+  {
+    "name": "Vladimir Guerrero Sr.",
+    "bwar": 59.5,
+    "fwar": 59.5,
+    "teams": [
+      "Montreal Expos",
+      "Los Angeles Angels",
+      "Texas Rangers",
+      "Baltimore Orioles"
+    ],
+    "positions": [
+      "RF",
+      "OF",
+      "DH"
+    ],
+    "years_active": [
+      "1996",
+      "2011"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Dominican Republic"
+  },
+  {
+    "name": "Manny Ramirez",
+    "bwar": 69.4,
+    "fwar": 69.4,
+    "teams": [
+      "Cleveland Guardians",
+      "Boston Red Sox",
+      "Los Angeles Dodgers",
+      "Chicago White Sox",
+      "Tampa Bay Rays"
+    ],
+    "positions": [
+      "LF",
+      "OF",
+      "DH"
+    ],
+    "years_active": [
+      "1993",
+      "2011"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Dominican Republic"
+  },
+  {
+    "name": "Carl Yastrzemski",
+    "bwar": 96.4,
+    "fwar": 96.4,
+    "teams": [
+      "Boston Red Sox"
+    ],
+    "positions": [
+      "LF",
+      "OF",
+      "1B"
+    ],
+    "years_active": [
+      "1961",
+      "1983"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Ralph Kiner",
+    "bwar": 50.1,
+    "fwar": 50.1,
+    "teams": [
+      "Pittsburgh Pirates",
+      "Chicago Cubs",
+      "Cleveland Guardians"
+    ],
+    "positions": [
+      "LF",
+      "OF"
+    ],
+    "years_active": [
+      "1946",
+      "1955"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Tim Raines",
+    "bwar": 69.4,
+    "fwar": 69.4,
+    "teams": [
+      "Montreal Expos",
+      "Chicago White Sox",
+      "New York Yankees",
+      "Oakland Athletics",
+      "Baltimore Orioles",
+      "Florida Marlins"
+    ],
+    "positions": [
+      "LF",
+      "OF"
+    ],
+    "years_active": [
+      "1979",
+      "2002"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Billy Williams",
+    "bwar": 63.2,
+    "fwar": 63.2,
+    "teams": [
+      "Chicago Cubs",
+      "Oakland Athletics"
+    ],
+    "positions": [
+      "LF",
+      "OF"
+    ],
+    "years_active": [
+      "1959",
+      "1976"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Jim Rice",
+    "bwar": 47.7,
+    "fwar": 47.7,
+    "teams": [
+      "Boston Red Sox"
+    ],
+    "positions": [
+      "LF",
+      "OF",
+      "DH"
+    ],
+    "years_active": [
+      "1974",
+      "1989"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Harmon Killebrew",
+    "bwar": 60.4,
+    "fwar": 60.4,
+    "teams": [
+      "Washington Senators",
+      "Minnesota Twins",
+      "Kansas City Royals"
+    ],
+    "positions": [
+      "1B",
+      "3B",
+      "LF",
+      "DH"
+    ],
+    "years_active": [
+      "1954",
+      "1975"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Willie McCovey",
+    "bwar": 64.5,
+    "fwar": 64.5,
+    "teams": [
+      "San Francisco Giants",
+      "San Diego Padres",
+      "Oakland Athletics"
+    ],
+    "positions": [
+      "1B"
+    ],
+    "years_active": [
+      "1959",
+      "1980"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Mark McGwire",
+    "bwar": 62.0,
+    "fwar": 62.0,
+    "teams": [
+      "Oakland Athletics",
+      "St. Louis Cardinals"
+    ],
+    "positions": [
+      "1B"
+    ],
+    "years_active": [
+      "1986",
+      "2001"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Rafael Palmeiro",
+    "bwar": 71.9,
+    "fwar": 71.9,
+    "teams": [
+      "Chicago Cubs",
+      "Texas Rangers",
+      "Baltimore Orioles"
+    ],
+    "positions": [
+      "1B",
+      "DH"
+    ],
+    "years_active": [
+      "1986",
+      "2005"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Cuba"
+  },
+  {
+    "name": "Don Mattingly",
+    "bwar": 42.4,
+    "fwar": 42.4,
+    "teams": [
+      "New York Yankees"
+    ],
+    "positions": [
+      "1B"
+    ],
+    "years_active": [
+      "1982",
+      "1995"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Keith Hernandez",
+    "bwar": 60.1,
+    "fwar": 60.1,
+    "teams": [
+      "St. Louis Cardinals",
+      "New York Mets",
+      "Cleveland Guardians"
+    ],
+    "positions": [
+      "1B"
+    ],
+    "years_active": [
+      "1974",
+      "1990"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Johnny Mize",
+    "bwar": 71.1,
+    "fwar": 71.1,
+    "teams": [
+      "St. Louis Cardinals",
+      "New York Giants",
+      "New York Yankees"
+    ],
+    "positions": [
+      "1B"
+    ],
+    "years_active": [
+      "1936",
+      "1953"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Jimmie Foxx",
+    "bwar": 96.4,
+    "fwar": 96.4,
+    "teams": [
+      "Philadelphia Athletics",
+      "Boston Red Sox",
+      "Chicago Cubs",
+      "Philadelphia Phillies"
+    ],
+    "positions": [
+      "1B",
+      "C"
+    ],
+    "years_active": [
+      "1925",
+      "1945"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Hank Greenberg",
+    "bwar": 57.5,
+    "fwar": 57.5,
+    "teams": [
+      "Detroit Tigers",
+      "Pittsburgh Pirates"
+    ],
+    "positions": [
+      "1B",
+      "LF"
+    ],
+    "years_active": [
+      "1930",
+      "1947"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Willie Stargell",
+    "bwar": 57.5,
+    "fwar": 57.5,
+    "teams": [
+      "Pittsburgh Pirates"
+    ],
+    "positions": [
+      "LF",
+      "1B"
+    ],
+    "years_active": [
+      "1962",
+      "1982"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Eddie Murray",
+    "bwar": 68.4,
+    "fwar": 68.4,
+    "teams": [
+      "Baltimore Orioles",
+      "Los Angeles Dodgers",
+      "New York Mets",
+      "Cleveland Guardians",
+      "Anaheim Angels"
+    ],
+    "positions": [
+      "1B",
+      "DH"
+    ],
+    "years_active": [
+      "1977",
+      "1997"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Jim Palmer",
+    "bwar": 68.5,
+    "fwar": 68.5,
+    "teams": [
+      "Baltimore Orioles"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "1965",
+      "1984"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Whitey Ford",
+    "bwar": 57.1,
+    "fwar": 57.1,
+    "teams": [
+      "New York Yankees"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "1950",
+      "1967"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Don Drysdale",
+    "bwar": 67.2,
+    "fwar": 67.2,
+    "teams": [
+      "Brooklyn Dodgers",
+      "Los Angeles Dodgers"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "1956",
+      "1969"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Juan Marichal",
+    "bwar": 61.9,
+    "fwar": 61.9,
+    "teams": [
+      "San Francisco Giants",
+      "Boston Red Sox",
+      "Los Angeles Dodgers"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "1960",
+      "1975"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Dominican Republic"
+  },
+  {
+    "name": "Fergie Jenkins",
+    "bwar": 84.1,
+    "fwar": 84.1,
+    "teams": [
+      "Philadelphia Phillies",
+      "Chicago Cubs",
+      "Texas Rangers",
+      "Boston Red Sox"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "1965",
+      "1983"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Gaylord Perry",
+    "bwar": 90.0,
+    "fwar": 90.0,
+    "teams": [
+      "San Francisco Giants",
+      "Cleveland Guardians",
+      "Texas Rangers",
+      "San Diego Padres",
+      "New York Yankees",
+      "Atlanta Braves",
+      "Seattle Mariners",
+      "Kansas City Royals"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "1962",
+      "1983"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Phil Niekro",
+    "bwar": 97.0,
+    "fwar": 97.0,
+    "teams": [
+      "Milwaukee Braves",
+      "Atlanta Braves",
+      "New York Yankees",
+      "Cleveland Guardians",
+      "Toronto Blue Jays"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "1964",
+      "1987"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Tom Glavine",
+    "bwar": 81.4,
+    "fwar": 81.4,
+    "teams": [
+      "Atlanta Braves",
+      "New York Mets"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "1987",
+      "2008"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "John Smoltz",
+    "bwar": 69.0,
+    "fwar": 69.0,
+    "teams": [
+      "Atlanta Braves",
+      "Boston Red Sox",
+      "St. Louis Cardinals"
+    ],
+    "positions": [
+      "SP",
+      "RP"
+    ],
+    "years_active": [
+      "1988",
+      "2009"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Curt Schilling",
+    "bwar": 79.5,
+    "fwar": 79.5,
+    "teams": [
+      "Baltimore Orioles",
+      "Houston Astros",
+      "Philadelphia Phillies",
+      "Arizona Diamondbacks",
+      "Boston Red Sox"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "1988",
+      "2007"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Roy Halladay",
+    "bwar": 65.4,
+    "fwar": 65.4,
+    "teams": [
+      "Toronto Blue Jays",
+      "Philadelphia Phillies"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "1998",
+      "2013"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Roy Oswalt",
+    "bwar": 50.1,
+    "fwar": 50.1,
+    "teams": [
+      "Houston Astros",
+      "Philadelphia Phillies",
+      "Texas Rangers",
+      "Colorado Rockies"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2001",
+      "2013"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "CC Sabathia",
+    "bwar": 62.3,
+    "fwar": 62.3,
+    "teams": [
+      "Cleveland Guardians",
+      "Milwaukee Brewers",
+      "New York Yankees"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2001",
+      "2019"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Felix Hernandez",
+    "bwar": 50.1,
+    "fwar": 50.1,
+    "teams": [
+      "Seattle Mariners"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2005",
+      "2019"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Venezuela"
+  },
+  {
+    "name": "Justin Verlander",
+    "bwar": 81.9,
+    "fwar": 81.9,
+    "teams": [
+      "Detroit Tigers",
+      "Houston Astros",
+      "New York Mets"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2005",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Clayton Kershaw",
+    "bwar": 79.9,
+    "fwar": 79.9,
+    "teams": [
+      "Los Angeles Dodgers"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2008",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Max Scherzer",
+    "bwar": 73.9,
+    "fwar": 73.9,
+    "teams": [
+      "Arizona Diamondbacks",
+      "Detroit Tigers",
+      "Washington Nationals",
+      "Los Angeles Dodgers",
+      "New York Mets",
+      "Texas Rangers"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2008",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Jacob deGrom",
+    "bwar": 45.0,
+    "fwar": 45.0,
+    "teams": [
+      "New York Mets",
+      "Texas Rangers"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2014",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Gerrit Cole",
+    "bwar": 50.1,
+    "fwar": 50.1,
+    "teams": [
+      "Pittsburgh Pirates",
+      "Houston Astros",
+      "New York Yankees"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2013",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Zack Greinke",
+    "bwar": 77.3,
+    "fwar": 77.3,
+    "teams": [
+      "Kansas City Royals",
+      "Milwaukee Brewers",
+      "Los Angeles Angels",
+      "Los Angeles Dodgers",
+      "Arizona Diamondbacks",
+      "Houston Astros"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2004",
+      "2023"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "David Price",
+    "bwar": 40.2,
+    "fwar": 40.2,
+    "teams": [
+      "Tampa Bay Rays",
+      "Detroit Tigers",
+      "Toronto Blue Jays",
+      "Boston Red Sox",
+      "Los Angeles Dodgers"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2008",
+      "2022"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Cole Hamels",
+    "bwar": 59.0,
+    "fwar": 59.0,
+    "teams": [
+      "Philadelphia Phillies",
+      "Texas Rangers",
+      "Chicago Cubs",
+      "Atlanta Braves"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2006",
+      "2020"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Jon Lester",
+    "bwar": 44.0,
+    "fwar": 44.0,
+    "teams": [
+      "Boston Red Sox",
+      "Oakland Athletics",
+      "Chicago Cubs",
+      "Washington Nationals",
+      "St. Louis Cardinals"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2006",
+      "2021"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Trevor Hoffman",
+    "bwar": 28.0,
+    "fwar": 28.0,
+    "teams": [
+      "Florida Marlins",
+      "San Diego Padres",
+      "Milwaukee Brewers"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "1993",
+      "2010"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Lee Smith",
+    "bwar": 29.3,
+    "fwar": 29.3,
+    "teams": [
+      "Chicago Cubs",
+      "Boston Red Sox",
+      "St. Louis Cardinals",
+      "New York Yankees",
+      "Baltimore Orioles",
+      "California Angels",
+      "Cincinnati Reds",
+      "Montreal Expos"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "1980",
+      "1997"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Dennis Eckersley",
+    "bwar": 62.5,
+    "fwar": 62.5,
+    "teams": [
+      "Cleveland Guardians",
+      "Boston Red Sox",
+      "Chicago Cubs",
+      "Oakland Athletics",
+      "St. Louis Cardinals"
+    ],
+    "positions": [
+      "SP",
+      "CP"
+    ],
+    "years_active": [
+      "1975",
+      "1998"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Rollie Fingers",
+    "bwar": 25.6,
+    "fwar": 25.6,
+    "teams": [
+      "Oakland Athletics",
+      "San Diego Padres",
+      "Milwaukee Brewers"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "1968",
+      "1985"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Bruce Sutter",
+    "bwar": 24.5,
+    "fwar": 24.5,
+    "teams": [
+      "Chicago Cubs",
+      "St. Louis Cardinals",
+      "Atlanta Braves"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "1976",
+      "1988"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Goose Gossage",
+    "bwar": 41.5,
+    "fwar": 41.5,
+    "teams": [
+      "Chicago White Sox",
+      "Pittsburgh Pirates",
+      "New York Yankees",
+      "San Diego Padres",
+      "Chicago Cubs",
+      "San Francisco Giants",
+      "Texas Rangers",
+      "Oakland Athletics",
+      "Seattle Mariners"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "1972",
+      "1994"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Billy Wagner",
+    "bwar": 27.7,
+    "fwar": 27.7,
+    "teams": [
+      "Houston Astros",
+      "Philadelphia Phillies",
+      "New York Mets",
+      "Boston Red Sox",
+      "Atlanta Braves"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "1995",
+      "2010"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Jonathan Papelbon",
+    "bwar": 23.4,
+    "fwar": 23.4,
+    "teams": [
+      "Boston Red Sox",
+      "Philadelphia Phillies",
+      "Washington Nationals"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "2005",
+      "2016"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Craig Kimbrel",
+    "bwar": 22.1,
+    "fwar": 22.1,
+    "teams": [
+      "Atlanta Braves",
+      "San Diego Padres",
+      "Boston Red Sox",
+      "Chicago Cubs",
+      "Chicago White Sox",
+      "Los Angeles Dodgers",
+      "Baltimore Orioles",
+      "Philadelphia Phillies"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "2010",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": false
+  },
+  {
+    "name": "Kenley Jansen",
+    "bwar": 20.3,
+    "fwar": 20.3,
+    "teams": [
+      "Los Angeles Dodgers",
+      "Atlanta Braves",
+      "Boston Red Sox"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "2010",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Curacao"
+  },
+  {
+    "name": "Francisco Rodriguez",
+    "bwar": 25.6,
+    "fwar": 25.6,
+    "teams": [
+      "Los Angeles Angels",
+      "New York Mets",
+      "Milwaukee Brewers",
+      "Baltimore Orioles",
+      "Detroit Tigers",
+      "Washington Nationals"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "2002",
+      "2017"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Venezuela"
+  },
+  {
+    "name": "Jose Valverde",
+    "bwar": 12.3,
+    "fwar": 12.3,
+    "teams": [
+      "Arizona Diamondbacks",
+      "Detroit Tigers",
+      "Houston Astros",
+      "New York Mets"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "2003",
+      "2014"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Dominican Republic"
+  },
+  {
+    "name": "Fernando Rodney",
+    "bwar": 10.2,
+    "fwar": 10.2,
+    "teams": [
+      "Detroit Tigers",
+      "Los Angeles Angels",
+      "Tampa Bay Rays",
+      "Seattle Mariners",
+      "Chicago Cubs",
+      "San Diego Padres",
+      "Miami Marlins",
+      "Arizona Diamondbacks",
+      "Minnesota Twins",
+      "Oakland Athletics",
+      "Washington Nationals"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "2002",
+      "2019"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Dominican Republic"
   }
 ]
