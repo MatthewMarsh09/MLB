@@ -1,32 +1,38 @@
-const API_BASE = window.location.origin + '/api';
+const ALL_TEAMS = [
+    "Arizona Diamondbacks", "Atlanta Braves", "Baltimore Orioles", 
+    "Boston Red Sox", "Chicago Cubs", "Chicago White Sox", 
+    "Cincinnati Reds", "Cleveland Guardians", "Colorado Rockies",
+    "Detroit Tigers", "Houston Astros", "Kansas City Royals",
+    "Los Angeles Angels", "Los Angeles Dodgers", "Miami Marlins",
+    "Milwaukee Brewers", "Minnesota Twins", "New York Mets",
+    "New York Yankees", "Oakland Athletics", "Philadelphia Phillies",
+    "Pittsburgh Pirates", "San Diego Padres", "San Francisco Giants",
+    "Seattle Mariners", "St. Louis Cardinals", "Tampa Bay Rays",
+    "Texas Rangers", "Toronto Blue Jays", "Washington Nationals"
+];
+
+const ALL_POSITIONS = ["C", "1B", "2B", "3B", "SS", "RF", "CF", "LF", "DH", "SP", "RP", "CP"];
+
 let allPlayers = [], filteredPlayers = [];
 
-async function loadTeams() {
-    try {
-        const res = await fetch(`${API_BASE}/teams`);
-        const data = await res.json();
-        const select = document.getElementById('team-filter');
-        data.teams.forEach(team => {
-            const opt = document.createElement('option');
-            opt.value = team;
-            opt.textContent = team;
-            select.appendChild(opt);
-        });
-    } catch (e) { console.error('Error loading teams:', e); }
+function loadTeams() {
+    const select = document.getElementById('team-filter');
+    ALL_TEAMS.forEach(team => {
+        const opt = document.createElement('option');
+        opt.value = team;
+        opt.textContent = team;
+        select.appendChild(opt);
+    });
 }
 
-async function loadPositions() {
-    try {
-        const res = await fetch(`${API_BASE}/positions`);
-        const data = await res.json();
-        const select = document.getElementById('position-filter');
-        data.positions.forEach(pos => {
-            const opt = document.createElement('option');
-            opt.value = pos;
-            opt.textContent = pos;
-            select.appendChild(opt);
-        });
-    } catch (e) { console.error('Error loading positions:', e); }
+function loadPositions() {
+    const select = document.getElementById('position-filter');
+    ALL_POSITIONS.forEach(pos => {
+        const opt = document.createElement('option');
+        opt.value = pos;
+        opt.textContent = pos;
+        select.appendChild(opt);
+    });
 }
 
 async function loadPlayers() {
@@ -34,36 +40,47 @@ async function loadPlayers() {
     loading.style.display = 'block';
     
     try {
+        const res = await fetch('data/players.json');
+        if (!res.ok) throw new Error('Failed to load data');
+        const players = await res.json();
+        
         const team = document.getElementById('team-filter').value;
         const position = document.getElementById('position-filter').value;
         const minFwar = parseFloat(document.getElementById('min-fwar').value) || 0;
         
-        const params = new URLSearchParams();
-        if (team) params.append('team', team);
-        if (position) params.append('position', position);
-        if (minFwar > 0) params.append('min_fwar', minFwar);
-        params.append('limit', 500);
-        
-        const res = await fetch(`${API_BASE}/players?${params}`);
-        if (!res.ok) {
-            throw new Error(`HTTP ${res.status}`);
+        let filtered = players;
+        if (team) {
+            filtered = filtered.filter(p => 
+                p.teams?.some(t => t.toLowerCase().includes(team.toLowerCase()))
+            );
         }
-        const data = await res.json();
-        
-        if (data.message) {
-            throw new Error(data.message);
+        if (position) {
+            const posUpper = position.toUpperCase();
+            if (posUpper in ["SP", "RP", "CP"]) {
+                filtered = filtered.filter(p => 
+                    p.positions?.some(pos => ["P", "SP", "RP", "CP"].includes(pos.toUpperCase()))
+                );
+            } else {
+                filtered = filtered.filter(p => 
+                    p.positions?.some(pos => pos.toUpperCase() === posUpper)
+                );
+            }
+        }
+        if (minFwar > 0) {
+            filtered = filtered.filter(p => (p.fwar || 0) >= minFwar);
         }
         
-        allPlayers = data.players || [];
-        filteredPlayers = allPlayers;
+        filtered.sort((a, b) => (b.fwar || 0) - (a.fwar || 0));
+        
+        allPlayers = players;
+        filteredPlayers = filtered;
         
         displayPlayers();
         updateStats();
     } catch (e) {
         console.error('Error loading players:', e);
-        const msg = e.message || 'Error loading data. Make sure the server is running.';
         document.getElementById('players-tbody').innerHTML = 
-            `<tr><td colspan="8" style="text-align: center; color: #ff00ff;">${msg}</td></tr>`;
+            '<tr><td colspan="8" style="text-align: center; color: #ff00ff;">Error loading data.</td></tr>';
     } finally {
         loading.style.display = 'none';
     }
