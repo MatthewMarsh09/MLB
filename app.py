@@ -33,7 +33,7 @@ async def get_teams():
 
 @app.get("/api/positions")
 async def get_positions():
-    return {"positions": ["P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "OF", "DH", "UTIL"]}
+    return {"positions": ["C", "1B", "2B", "3B", "SS", "RF", "CF", "LF", "DH", "SP", "RP", "CP"]}
 
 @app.get("/api/players")
 async def get_players(
@@ -55,7 +55,11 @@ async def get_players(
     if team:
         filtered = [p for p in filtered if team.lower() in [t.lower() for t in p.get("teams", [])]]
     if position:
-        filtered = [p for p in filtered if position.upper() in [pos.upper() for pos in p.get("positions", [])]]
+        pos_upper = position.upper()
+        if pos_upper in ["SP", "RP", "CP"]:
+            filtered = [p for p in filtered if any(pos.upper() in ["P", "SP", "RP", "CP"] for pos in p.get("positions", []))]
+        else:
+            filtered = [p for p in filtered if pos_upper in [pos.upper() for pos in p.get("positions", [])]]
     if min_fwar:
         filtered = [p for p in filtered if p.get("fwar", 0) >= min_fwar]
     
