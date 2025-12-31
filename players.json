@@ -1340,5 +1340,256 @@
     ],
     "minor_league": false,
     "international_signing": false
+  },
+  {
+    "name": "Shohei Ohtani",
+    "bwar": 40.2,
+    "fwar": 40.2,
+    "teams": [
+      "Los Angeles Angels",
+      "Los Angeles Dodgers"
+    ],
+    "positions": [
+      "SP",
+      "DH",
+      "OF"
+    ],
+    "years_active": [
+      "2018",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Japan"
+  },
+  {
+    "name": "Yu Darvish",
+    "bwar": 40.5,
+    "fwar": 40.5,
+    "teams": [
+      "Texas Rangers",
+      "Los Angeles Dodgers",
+      "Chicago Cubs",
+      "San Diego Padres"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2012",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Japan"
+  },
+  {
+    "name": "Masahiro Tanaka",
+    "bwar": 19.1,
+    "fwar": 19.1,
+    "teams": [
+      "New York Yankees"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "2014",
+      "2021"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Japan"
+  },
+  {
+    "name": "Hideki Matsui",
+    "bwar": 21.4,
+    "fwar": 21.4,
+    "teams": [
+      "New York Yankees",
+      "Los Angeles Angels",
+      "Oakland Athletics",
+      "Tampa Bay Rays"
+    ],
+    "positions": [
+      "LF",
+      "OF",
+      "DH"
+    ],
+    "years_active": [
+      "2003",
+      "2012"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Japan"
+  },
+  {
+    "name": "Hideo Nomo",
+    "bwar": 19.3,
+    "fwar": 19.3,
+    "teams": [
+      "Los Angeles Dodgers",
+      "New York Mets",
+      "Milwaukee Brewers",
+      "Detroit Tigers",
+      "Boston Red Sox",
+      "Tampa Bay Devil Rays",
+      "Kansas City Royals"
+    ],
+    "positions": [
+      "SP"
+    ],
+    "years_active": [
+      "1995",
+      "2008"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Japan"
+  },
+  {
+    "name": "Aroldis Chapman",
+    "bwar": 20.1,
+    "fwar": 20.1,
+    "teams": [
+      "Cincinnati Reds",
+      "New York Yankees",
+      "Chicago Cubs",
+      "Kansas City Royals",
+      "Texas Rangers",
+      "Pittsburgh Pirates"
+    ],
+    "positions": [
+      "CP"
+    ],
+    "years_active": [
+      "2010",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Cuba"
+  },
+  {
+    "name": "Jose Abreu",
+    "bwar": 31.7,
+    "fwar": 31.7,
+    "teams": [
+      "Chicago White Sox",
+      "Houston Astros"
+    ],
+    "positions": [
+      "1B",
+      "DH"
+    ],
+    "years_active": [
+      "2014",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Cuba"
+  },
+  {
+    "name": "Yoenis Cespedes",
+    "bwar": 25.8,
+    "fwar": 25.8,
+    "teams": [
+      "Oakland Athletics",
+      "Boston Red Sox",
+      "Detroit Tigers",
+      "New York Mets"
+    ],
+    "positions": [
+      "LF",
+      "OF"
+    ],
+    "years_active": [
+      "2012",
+      "2020"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Cuba"
+  },
+  {
+    "name": "Ronald Acuna Jr.",
+    "bwar": 35.2,
+    "fwar": 35.2,
+    "teams": [
+      "Atlanta Braves"
+    ],
+    "positions": [
+      "RF",
+      "OF"
+    ],
+    "years_active": [
+      "2018",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Venezuela"
+  },
+  {
+    "name": "Francisco Lindor",
+    "bwar": 42.8,
+    "fwar": 42.8,
+    "teams": [
+      "Cleveland Guardians",
+      "New York Mets"
+    ],
+    "positions": [
+      "SS"
+    ],
+    "years_active": [
+      "2015",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Puerto Rico"
+  },
+  {
+    "name": "Carlos Correa",
+    "bwar": 40.1,
+    "fwar": 40.1,
+    "teams": [
+      "Houston Astros",
+      "Minnesota Twins",
+      "San Francisco Giants"
+    ],
+    "positions": [
+      "SS"
+    ],
+    "years_active": [
+      "2015",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Puerto Rico"
+  },
+  {
+    "name": "Javier Baez",
+    "bwar": 28.3,
+    "fwar": 28.3,
+    "teams": [
+      "Chicago Cubs",
+      "Detroit Tigers",
+      "New York Mets"
+    ],
+    "positions": [
+      "SS",
+      "2B"
+    ],
+    "years_active": [
+      "2014",
+      "2024"
+    ],
+    "minor_league": false,
+    "international_signing": true,
+    "signing_country": "Puerto Rico"
   }
 ]
