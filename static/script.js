@@ -67,7 +67,7 @@ async function loadPlayers() {
             }
         }
         if (minFwar > 0) {
-            filtered = filtered.filter(p => (p.bwar || 0) >= minFwar || (p.fwar || 0) >= minFwar);
+            filtered = filtered.filter(p => (p.bwar || 0) >= minFwar);
         }
         
         filtered.sort((a, b) => (b.bwar || 0) - (a.bwar || 0));
@@ -103,7 +103,6 @@ function displayPlayers() {
                 <td>${i + 1}</td>
                 <td><strong>${p.name || 'Unknown'}</strong></td>
                 <td>${p.bwar?.toFixed(1) || '0.0'}</td>
-                <td>${p.fwar?.toFixed(1) || '0.0'}</td>
                 <td>${teams.map(t => `<span class="badge badge-team">${t}</span>`).join('')}</td>
                 <td>${positions.map(pos => `<span class="badge badge-position">${pos}</span>`).join('')}</td>
                 <td>${p.years_active?.join(', ') || 'N/A'}</td>

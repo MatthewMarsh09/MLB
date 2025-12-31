@@ -2,7 +2,6 @@
   {
     "name": "Babe Ruth",
     "bwar": 182.5,
-    "fwar": 182.5,
     "teams": [
       "New York Yankees",
       "Boston Red Sox"
@@ -21,7 +20,6 @@
   {
     "name": "Barry Bonds",
     "bwar": 162.8,
-    "fwar": 164.4,
     "teams": [
       "San Francisco Giants",
       "Pittsburgh Pirates"
@@ -40,7 +38,6 @@
   {
     "name": "Willie Mays",
     "bwar": 156.2,
-    "fwar": 156.2,
     "teams": [
       "San Francisco Giants",
       "New York Mets"
@@ -59,7 +56,6 @@
   {
     "name": "Ty Cobb",
     "bwar": 151.0,
-    "fwar": 151.0,
     "teams": [
       "Detroit Tigers",
       "Philadelphia Athletics"
@@ -78,7 +74,6 @@
   {
     "name": "Hank Aaron",
     "bwar": 143.1,
-    "fwar": 143.0,
     "teams": [
       "Atlanta Braves",
       "Milwaukee Braves",
@@ -98,7 +93,6 @@
   {
     "name": "Tris Speaker",
     "bwar": 134.1,
-    "fwar": 134.1,
     "teams": [
       "Boston Red Sox",
       "Cleveland Guardians",
@@ -119,7 +113,6 @@
   {
     "name": "Honus Wagner",
     "bwar": 130.8,
-    "fwar": 130.8,
     "teams": [
       "Pittsburgh Pirates",
       "Louisville Colonels"
@@ -138,7 +131,6 @@
   {
     "name": "Stan Musial",
     "bwar": 128.2,
-    "fwar": 128.3,
     "teams": [
       "St. Louis Cardinals"
     ],
@@ -156,7 +148,6 @@
   {
     "name": "Rogers Hornsby",
     "bwar": 127.0,
-    "fwar": 127.1,
     "teams": [
       "St. Louis Cardinals",
       "New York Giants",
@@ -178,7 +169,6 @@
   {
     "name": "Eddie Collins",
     "bwar": 123.9,
-    "fwar": 124.0,
     "teams": [
       "Philadelphia Athletics",
       "Chicago White Sox"
@@ -196,7 +186,6 @@
   {
     "name": "Ted Williams",
     "bwar": 123.1,
-    "fwar": 123.1,
     "teams": [
       "Boston Red Sox"
     ],
@@ -214,7 +203,6 @@
   {
     "name": "Mickey Mantle",
     "bwar": 110.2,
-    "fwar": 110.3,
     "teams": [
       "New York Yankees"
     ],
@@ -232,7 +220,6 @@
   {
     "name": "Lou Gehrig",
     "bwar": 112.4,
-    "fwar": 112.4,
     "teams": [
       "New York Yankees"
     ],
@@ -249,7 +236,6 @@
   {
     "name": "Mike Trout",
     "bwar": 85.2,
-    "fwar": 85.2,
     "teams": [
       "Los Angeles Angels"
     ],
@@ -267,7 +253,6 @@
   {
     "name": "Albert Pujols",
     "bwar": 100.7,
-    "fwar": 100.7,
     "teams": [
       "St. Louis Cardinals",
       "Los Angeles Angels",
@@ -288,7 +273,6 @@
   {
     "name": "Alex Rodriguez",
     "bwar": 117.6,
-    "fwar": 117.6,
     "teams": [
       "Seattle Mariners",
       "Texas Rangers",
@@ -308,7 +292,6 @@
   {
     "name": "Derek Jeter",
     "bwar": 71.3,
-    "fwar": 71.3,
     "teams": [
       "New York Yankees"
     ],
@@ -325,7 +308,6 @@
   {
     "name": "Cal Ripken Jr.",
     "bwar": 95.9,
-    "fwar": 95.9,
     "teams": [
       "Baltimore Orioles"
     ],
@@ -343,7 +325,6 @@
   {
     "name": "Rickey Henderson",
     "bwar": 111.2,
-    "fwar": 111.2,
     "teams": [
       "Oakland Athletics",
       "New York Yankees",
@@ -369,7 +350,6 @@
   {
     "name": "Pete Rose",
     "bwar": 79.6,
-    "fwar": 79.6,
     "teams": [
       "Cincinnati Reds",
       "Philadelphia Phillies",
@@ -391,7 +371,6 @@
   {
     "name": "Randy Johnson",
     "bwar": 101.1,
-    "fwar": 101.1,
     "teams": [
       "Montreal Expos",
       "Seattle Mariners",
@@ -413,7 +392,6 @@
   {
     "name": "Roger Clemens",
     "bwar": 139.2,
-    "fwar": 139.2,
     "teams": [
       "Boston Red Sox",
       "Toronto Blue Jays",
@@ -433,7 +411,6 @@
   {
     "name": "Greg Maddux",
     "bwar": 106.8,
-    "fwar": 106.8,
     "teams": [
       "Chicago Cubs",
       "Atlanta Braves",
@@ -453,7 +430,6 @@
   {
     "name": "Pedro Martinez",
     "bwar": 86.0,
-    "fwar": 86.0,
     "teams": [
       "Los Angeles Dodgers",
       "Montreal Expos",
@@ -475,7 +451,6 @@
   {
     "name": "Mariano Rivera",
     "bwar": 56.3,
-    "fwar": 56.3,
     "teams": [
       "New York Yankees"
     ],
@@ -493,7 +468,6 @@
   {
     "name": "Ichiro Suzuki",
     "bwar": 60.0,
-    "fwar": 60.0,
     "teams": [
       "Seattle Mariners",
       "New York Yankees",
@@ -514,7 +488,6 @@
   {
     "name": "Roberto Clemente",
     "bwar": 94.8,
-    "fwar": 94.8,
     "teams": [
       "Pittsburgh Pirates"
     ],
@@ -533,7 +506,6 @@
   {
     "name": "Vladimir Guerrero",
     "bwar": 59.5,
-    "fwar": 59.5,
     "teams": [
       "Montreal Expos",
       "Los Angeles Angels",
@@ -556,7 +528,6 @@
   {
     "name": "Miguel Cabrera",
     "bwar": 67.3,
-    "fwar": 67.3,
     "teams": [
       "Florida Marlins",
       "Detroit Tigers"
@@ -577,7 +548,6 @@
   {
     "name": "David Ortiz",
     "bwar": 55.3,
-    "fwar": 55.3,
     "teams": [
       "Minnesota Twins",
       "Boston Red Sox"
@@ -597,7 +567,6 @@
   {
     "name": "Adrian Beltre",
     "bwar": 93.5,
-    "fwar": 93.5,
     "teams": [
       "Los Angeles Dodgers",
       "Seattle Mariners",
@@ -618,7 +587,6 @@
   {
     "name": "Carlos Beltran",
     "bwar": 70.1,
-    "fwar": 70.1,
     "teams": [
       "Kansas City Royals",
       "Houston Astros",
@@ -643,7 +611,6 @@
   {
     "name": "Jose Altuve",
     "bwar": 51.2,
-    "fwar": 51.2,
     "teams": [
       "Houston Astros"
     ],
@@ -661,7 +628,6 @@
   {
     "name": "Manny Ramirez",
     "bwar": 69.4,
-    "fwar": 69.4,
     "teams": [
       "Cleveland Guardians",
       "Boston Red Sox",
@@ -685,7 +651,6 @@
   {
     "name": "Robinson Cano",
     "bwar": 57.4,
-    "fwar": 57.4,
     "teams": [
       "New York Yankees",
       "Seattle Mariners",
@@ -707,7 +672,6 @@
   {
     "name": "Yadier Molina",
     "bwar": 42.1,
-    "fwar": 42.1,
     "teams": [
       "St. Louis Cardinals"
     ],
@@ -725,7 +689,6 @@
   {
     "name": "Fernando Valenzuela",
     "bwar": 41.3,
-    "fwar": 41.3,
     "teams": [
       "Los Angeles Dodgers",
       "California Angels",
@@ -748,7 +711,6 @@
   {
     "name": "Juan Marichal",
     "bwar": 61.9,
-    "fwar": 61.9,
     "teams": [
       "San Francisco Giants",
       "Boston Red Sox",
@@ -768,7 +730,6 @@
   {
     "name": "Luis Aparicio",
     "bwar": 55.8,
-    "fwar": 55.8,
     "teams": [
       "Chicago White Sox",
       "Baltimore Orioles",
@@ -788,7 +749,6 @@
   {
     "name": "Rod Carew",
     "bwar": 81.2,
-    "fwar": 81.2,
     "teams": [
       "Minnesota Twins",
       "California Angels"
@@ -808,7 +768,6 @@
   {
     "name": "Tony Perez",
     "bwar": 54.0,
-    "fwar": 54.0,
     "teams": [
       "Cincinnati Reds",
       "Montreal Expos",
@@ -830,7 +789,6 @@
   {
     "name": "Minnie Minoso",
     "bwar": 50.3,
-    "fwar": 50.3,
     "teams": [
       "Cleveland Guardians",
       "Chicago White Sox",
@@ -853,7 +811,6 @@
   {
     "name": "Orlando Cepeda",
     "bwar": 50.1,
-    "fwar": 50.1,
     "teams": [
       "San Francisco Giants",
       "St. Louis Cardinals",
@@ -876,7 +833,6 @@
   {
     "name": "Felipe Alou",
     "bwar": 32.1,
-    "fwar": 32.1,
     "teams": [
       "San Francisco Giants",
       "Milwaukee Braves",
@@ -900,7 +856,6 @@
   {
     "name": "Tony Oliva",
     "bwar": 43.0,
-    "fwar": 43.0,
     "teams": [
       "Minnesota Twins"
     ],
@@ -919,7 +874,6 @@
   {
     "name": "Bert Campaneris",
     "bwar": 53.9,
-    "fwar": 53.9,
     "teams": [
       "Kansas City Athletics",
       "Oakland Athletics",
@@ -941,7 +895,6 @@
   {
     "name": "Jose Canseco",
     "bwar": 42.7,
-    "fwar": 42.7,
     "teams": [
       "Oakland Athletics",
       "Texas Rangers",
@@ -966,7 +919,6 @@
   {
     "name": "Rafael Palmeiro",
     "bwar": 71.9,
-    "fwar": 71.9,
     "teams": [
       "Chicago Cubs",
       "Texas Rangers",
@@ -987,7 +939,6 @@
   {
     "name": "Sandy Alomar Jr.",
     "bwar": 15.2,
-    "fwar": 15.2,
     "teams": [
       "San Diego Padres",
       "Cleveland Guardians",
@@ -1010,7 +961,6 @@
   {
     "name": "Edgar Martinez",
     "bwar": 68.4,
-    "fwar": 68.4,
     "teams": [
       "Seattle Mariners"
     ],
@@ -1029,7 +979,6 @@
   {
     "name": "Ivan Rodriguez",
     "bwar": 68.7,
-    "fwar": 68.7,
     "teams": [
       "Texas Rangers",
       "Florida Marlins",
@@ -1052,7 +1001,6 @@
   {
     "name": "Carlos Delgado",
     "bwar": 44.1,
-    "fwar": 44.1,
     "teams": [
       "Toronto Blue Jays",
       "Florida Marlins",
@@ -1073,7 +1021,6 @@
   {
     "name": "Jorge Posada",
     "bwar": 42.7,
-    "fwar": 42.7,
     "teams": [
       "New York Yankees"
     ],
@@ -1091,7 +1038,6 @@
   {
     "name": "Bernie Williams",
     "bwar": 49.6,
-    "fwar": 49.6,
     "teams": [
       "New York Yankees"
     ],
@@ -1110,7 +1056,6 @@
   {
     "name": "Roberto Alomar",
     "bwar": 67.0,
-    "fwar": 67.0,
     "teams": [
       "San Diego Padres",
       "Toronto Blue Jays",
@@ -1134,7 +1079,6 @@
   {
     "name": "Sandy Koufax",
     "bwar": 48.9,
-    "fwar": 48.9,
     "teams": [
       "Brooklyn Dodgers",
       "Los Angeles Dodgers"
@@ -1152,7 +1096,6 @@
   {
     "name": "Tom Seaver",
     "bwar": 109.9,
-    "fwar": 109.9,
     "teams": [
       "New York Mets",
       "Cincinnati Reds",
@@ -1172,7 +1115,6 @@
   {
     "name": "Nolan Ryan",
     "bwar": 81.3,
-    "fwar": 81.3,
     "teams": [
       "New York Mets",
       "California Angels",
@@ -1192,7 +1134,6 @@
   {
     "name": "Steve Carlton",
     "bwar": 90.3,
-    "fwar": 90.3,
     "teams": [
       "St. Louis Cardinals",
       "Philadelphia Phillies",
@@ -1214,7 +1155,6 @@
   {
     "name": "Bob Gibson",
     "bwar": 89.1,
-    "fwar": 89.1,
     "teams": [
       "St. Louis Cardinals"
     ],
@@ -1231,7 +1171,6 @@
   {
     "name": "Warren Spahn",
     "bwar": 100.2,
-    "fwar": 100.2,
     "teams": [
       "Boston Braves",
       "Milwaukee Braves",
@@ -1251,7 +1190,6 @@
   {
     "name": "Cy Young",
     "bwar": 163.6,
-    "fwar": 163.6,
     "teams": [
       "Cleveland Spiders",
       "St. Louis Cardinals",
@@ -1272,7 +1210,6 @@
   {
     "name": "Walter Johnson",
     "bwar": 164.5,
-    "fwar": 164.5,
     "teams": [
       "Washington Senators"
     ],
@@ -1289,7 +1226,6 @@
   {
     "name": "Christy Mathewson",
     "bwar": 106.3,
-    "fwar": 106.3,
     "teams": [
       "New York Giants",
       "Cincinnati Reds"
@@ -1307,7 +1243,6 @@
   {
     "name": "Grover Cleveland Alexander",
     "bwar": 109.3,
-    "fwar": 109.3,
     "teams": [
       "Philadelphia Phillies",
       "Chicago Cubs",
@@ -1326,7 +1261,6 @@
   {
     "name": "Lefty Grove",
     "bwar": 109.7,
-    "fwar": 109.7,
     "teams": [
       "Philadelphia Athletics",
       "Boston Red Sox"
@@ -1344,7 +1278,6 @@
   {
     "name": "Shohei Ohtani",
     "bwar": 40.2,
-    "fwar": 40.2,
     "teams": [
       "Los Angeles Angels",
       "Los Angeles Dodgers"
@@ -1365,7 +1298,6 @@
   {
     "name": "Yu Darvish",
     "bwar": 40.5,
-    "fwar": 40.5,
     "teams": [
       "Texas Rangers",
       "Los Angeles Dodgers",
@@ -1386,7 +1318,6 @@
   {
     "name": "Masahiro Tanaka",
     "bwar": 19.1,
-    "fwar": 19.1,
     "teams": [
       "New York Yankees"
     ],
@@ -1404,7 +1335,6 @@
   {
     "name": "Hideki Matsui",
     "bwar": 21.4,
-    "fwar": 21.4,
     "teams": [
       "New York Yankees",
       "Los Angeles Angels",
@@ -1427,7 +1357,6 @@
   {
     "name": "Hideo Nomo",
     "bwar": 19.3,
-    "fwar": 19.3,
     "teams": [
       "Los Angeles Dodgers",
       "New York Mets",
@@ -1451,7 +1380,6 @@
   {
     "name": "Aroldis Chapman",
     "bwar": 20.1,
-    "fwar": 20.1,
     "teams": [
       "Cincinnati Reds",
       "New York Yankees",
@@ -1474,7 +1402,6 @@
   {
     "name": "Jose Abreu",
     "bwar": 31.7,
-    "fwar": 31.7,
     "teams": [
       "Chicago White Sox",
       "Houston Astros"
@@ -1494,7 +1421,6 @@
   {
     "name": "Yoenis Cespedes",
     "bwar": 25.8,
-    "fwar": 25.8,
     "teams": [
       "Oakland Athletics",
       "Boston Red Sox",
@@ -1516,7 +1442,6 @@
   {
     "name": "Ronald Acuna Jr.",
     "bwar": 35.2,
-    "fwar": 35.2,
     "teams": [
       "Atlanta Braves"
     ],
@@ -1535,7 +1460,6 @@
   {
     "name": "Francisco Lindor",
     "bwar": 42.8,
-    "fwar": 42.8,
     "teams": [
       "Cleveland Guardians",
       "New York Mets"
@@ -1554,7 +1478,6 @@
   {
     "name": "Carlos Correa",
     "bwar": 40.1,
-    "fwar": 40.1,
     "teams": [
       "Houston Astros",
       "Minnesota Twins",
@@ -1574,7 +1497,6 @@
   {
     "name": "Javier Baez",
     "bwar": 28.3,
-    "fwar": 28.3,
     "teams": [
       "Chicago Cubs",
       "Detroit Tigers",
@@ -1595,7 +1517,6 @@
   {
     "name": "Ken Griffey Jr.",
     "bwar": 83.8,
-    "fwar": 83.8,
     "teams": [
       "Seattle Mariners",
       "Cincinnati Reds",
@@ -1615,7 +1536,6 @@
   {
     "name": "Frank Thomas",
     "bwar": 73.8,
-    "fwar": 73.8,
     "teams": [
       "Chicago White Sox",
       "Oakland Athletics",
@@ -1635,7 +1555,6 @@
   {
     "name": "Chipper Jones",
     "bwar": 85.0,
-    "fwar": 85.0,
     "teams": [
       "Atlanta Braves"
     ],
@@ -1653,7 +1572,6 @@
   {
     "name": "Jeff Bagwell",
     "bwar": 79.9,
-    "fwar": 79.9,
     "teams": [
       "Houston Astros"
     ],
@@ -1670,7 +1588,6 @@
   {
     "name": "Craig Biggio",
     "bwar": 65.5,
-    "fwar": 65.5,
     "teams": [
       "Houston Astros"
     ],
@@ -1689,7 +1606,6 @@
   {
     "name": "Tony Gwynn",
     "bwar": 69.2,
-    "fwar": 69.2,
     "teams": [
       "San Diego Padres"
     ],
@@ -1707,7 +1623,6 @@
   {
     "name": "Wade Boggs",
     "bwar": 91.4,
-    "fwar": 91.4,
     "teams": [
       "Boston Red Sox",
       "New York Yankees",
@@ -1726,7 +1641,6 @@
   {
     "name": "George Brett",
     "bwar": 88.6,
-    "fwar": 88.6,
     "teams": [
       "Kansas City Royals"
     ],
@@ -1744,7 +1658,6 @@
   {
     "name": "Paul Molitor",
     "bwar": 75.7,
-    "fwar": 75.7,
     "teams": [
       "Milwaukee Brewers",
       "Toronto Blue Jays",
@@ -1765,7 +1678,6 @@
   {
     "name": "Eddie Murray",
     "bwar": 68.4,
-    "fwar": 68.4,
     "teams": [
       "Baltimore Orioles",
       "Los Angeles Dodgers",
@@ -1787,7 +1699,6 @@
   {
     "name": "Dave Winfield",
     "bwar": 64.2,
-    "fwar": 64.2,
     "teams": [
       "San Diego Padres",
       "New York Yankees",
@@ -1811,7 +1722,6 @@
   {
     "name": "Jim Thome",
     "bwar": 72.9,
-    "fwar": 72.9,
     "teams": [
       "Cleveland Guardians",
       "Philadelphia Phillies",
@@ -1835,7 +1745,6 @@
   {
     "name": "Mike Piazza",
     "bwar": 59.5,
-    "fwar": 59.5,
     "teams": [
       "Los Angeles Dodgers",
       "Florida Marlins",
@@ -1856,7 +1765,6 @@
   {
     "name": "Gary Carter",
     "bwar": 70.1,
-    "fwar": 70.1,
     "teams": [
       "Montreal Expos",
       "New York Mets",
@@ -1876,7 +1784,6 @@
   {
     "name": "Johnny Bench",
     "bwar": 75.2,
-    "fwar": 75.2,
     "teams": [
       "Cincinnati Reds"
     ],
@@ -1893,7 +1800,6 @@
   {
     "name": "Carlton Fisk",
     "bwar": 68.4,
-    "fwar": 68.4,
     "teams": [
       "Boston Red Sox",
       "Chicago White Sox"
@@ -1911,7 +1817,6 @@
   {
     "name": "Yogi Berra",
     "bwar": 59.5,
-    "fwar": 59.5,
     "teams": [
       "New York Yankees",
       "New York Mets"
@@ -1930,7 +1835,6 @@
   {
     "name": "Roy Campanella",
     "bwar": 36.3,
-    "fwar": 36.3,
     "teams": [
       "Brooklyn Dodgers"
     ],
@@ -1947,7 +1851,6 @@
   {
     "name": "Josh Gibson",
     "bwar": 0.0,
-    "fwar": 0.0,
     "teams": [
       "Homestead Grays",
       "Pittsburgh Crawfords"
@@ -1965,7 +1868,6 @@
   {
     "name": "Joe Morgan",
     "bwar": 100.5,
-    "fwar": 100.5,
     "teams": [
       "Houston Astros",
       "Cincinnati Reds",
@@ -1986,7 +1888,6 @@
   {
     "name": "Ryne Sandberg",
     "bwar": 68.0,
-    "fwar": 68.0,
     "teams": [
       "Chicago Cubs",
       "Philadelphia Phillies"
@@ -2002,33 +1903,8 @@
     "international_signing": false
   },
   {
-    "name": "Roberto Alomar",
-    "bwar": 67.0,
-    "fwar": 67.0,
-    "teams": [
-      "San Diego Padres",
-      "Toronto Blue Jays",
-      "Baltimore Orioles",
-      "Cleveland Guardians",
-      "New York Mets",
-      "Chicago White Sox",
-      "Arizona Diamondbacks"
-    ],
-    "positions": [
-      "2B"
-    ],
-    "years_active": [
-      "1988",
-      "2004"
-    ],
-    "minor_league": false,
-    "international_signing": true,
-    "signing_country": "Puerto Rico"
-  },
-  {
     "name": "Jackie Robinson",
     "bwar": 61.5,
-    "fwar": 61.5,
     "teams": [
       "Brooklyn Dodgers"
     ],
@@ -2047,7 +1923,6 @@
   {
     "name": "Nap Lajoie",
     "bwar": 107.4,
-    "fwar": 107.4,
     "teams": [
       "Philadelphia Phillies",
       "Philadelphia Athletics",
@@ -2067,7 +1942,6 @@
   {
     "name": "Charlie Gehringer",
     "bwar": 80.7,
-    "fwar": 80.7,
     "teams": [
       "Detroit Tigers"
     ],
@@ -2084,7 +1958,6 @@
   {
     "name": "Frankie Frisch",
     "bwar": 70.4,
-    "fwar": 70.4,
     "teams": [
       "New York Giants",
       "St. Louis Cardinals"
@@ -2103,7 +1976,6 @@
   {
     "name": "Brooks Robinson",
     "bwar": 78.4,
-    "fwar": 78.4,
     "teams": [
       "Baltimore Orioles"
     ],
@@ -2120,7 +1992,6 @@
   {
     "name": "Mike Schmidt",
     "bwar": 106.8,
-    "fwar": 106.8,
     "teams": [
       "Philadelphia Phillies"
     ],
@@ -2137,7 +2008,6 @@
   {
     "name": "George Kell",
     "bwar": 37.4,
-    "fwar": 37.4,
     "teams": [
       "Philadelphia Athletics",
       "Detroit Tigers",
@@ -2158,7 +2028,6 @@
   {
     "name": "Eddie Mathews",
     "bwar": 96.4,
-    "fwar": 96.4,
     "teams": [
       "Boston Braves",
       "Milwaukee Braves",
@@ -2177,28 +2046,8 @@
     "international_signing": false
   },
   {
-    "name": "Wade Boggs",
-    "bwar": 91.4,
-    "fwar": 91.4,
-    "teams": [
-      "Boston Red Sox",
-      "New York Yankees",
-      "Tampa Bay Devil Rays"
-    ],
-    "positions": [
-      "3B"
-    ],
-    "years_active": [
-      "1982",
-      "1999"
-    ],
-    "minor_league": false,
-    "international_signing": false
-  },
-  {
     "name": "Ernie Banks",
     "bwar": 67.5,
-    "fwar": 67.5,
     "teams": [
       "Chicago Cubs"
     ],
@@ -2216,7 +2065,6 @@
   {
     "name": "Ozzie Smith",
     "bwar": 76.9,
-    "fwar": 76.9,
     "teams": [
       "San Diego Padres",
       "St. Louis Cardinals"
@@ -2234,7 +2082,6 @@
   {
     "name": "Robin Yount",
     "bwar": 77.3,
-    "fwar": 77.3,
     "teams": [
       "Milwaukee Brewers"
     ],
@@ -2252,7 +2099,6 @@
   {
     "name": "Alan Trammell",
     "bwar": 70.4,
-    "fwar": 70.4,
     "teams": [
       "Detroit Tigers"
     ],
@@ -2269,7 +2115,6 @@
   {
     "name": "Barry Larkin",
     "bwar": 70.5,
-    "fwar": 70.5,
     "teams": [
       "Cincinnati Reds"
     ],
@@ -2286,7 +2131,6 @@
   {
     "name": "Pee Wee Reese",
     "bwar": 66.4,
-    "fwar": 66.4,
     "teams": [
       "Brooklyn Dodgers",
       "Los Angeles Dodgers"
@@ -2304,7 +2148,6 @@
   {
     "name": "Arky Vaughan",
     "bwar": 72.8,
-    "fwar": 72.8,
     "teams": [
       "Pittsburgh Pirates",
       "Brooklyn Dodgers"
@@ -2322,7 +2165,6 @@
   {
     "name": "Luke Appling",
     "bwar": 74.5,
-    "fwar": 74.5,
     "teams": [
       "Chicago White Sox"
     ],
@@ -2339,7 +2181,6 @@
   {
     "name": "Joe DiMaggio",
     "bwar": 78.1,
-    "fwar": 78.1,
     "teams": [
       "New York Yankees"
     ],
@@ -2357,7 +2198,6 @@
   {
     "name": "Duke Snider",
     "bwar": 66.5,
-    "fwar": 66.5,
     "teams": [
       "Brooklyn Dodgers",
       "Los Angeles Dodgers",
@@ -2378,7 +2218,6 @@
   {
     "name": "Kirby Puckett",
     "bwar": 51.1,
-    "fwar": 51.1,
     "teams": [
       "Minnesota Twins"
     ],
@@ -2396,7 +2235,6 @@
   {
     "name": "Andruw Jones",
     "bwar": 62.8,
-    "fwar": 62.8,
     "teams": [
       "Atlanta Braves",
       "Los Angeles Dodgers",
@@ -2419,7 +2257,6 @@
   {
     "name": "Jim Edmonds",
     "bwar": 60.4,
-    "fwar": 60.4,
     "teams": [
       "California Angels",
       "St. Louis Cardinals",
@@ -2442,7 +2279,6 @@
   {
     "name": "Kenny Lofton",
     "bwar": 68.3,
-    "fwar": 68.3,
     "teams": [
       "Cleveland Guardians",
       "Atlanta Braves",
@@ -2469,7 +2305,6 @@
   {
     "name": "Al Kaline",
     "bwar": 92.8,
-    "fwar": 92.8,
     "teams": [
       "Detroit Tigers"
     ],
@@ -2487,7 +2322,6 @@
   {
     "name": "Reggie Jackson",
     "bwar": 73.9,
-    "fwar": 73.9,
     "teams": [
       "Kansas City Athletics",
       "Oakland Athletics",
@@ -2510,7 +2344,6 @@
   {
     "name": "Dave Parker",
     "bwar": 40.1,
-    "fwar": 40.1,
     "teams": [
       "Pittsburgh Pirates",
       "Cincinnati Reds",
@@ -2534,7 +2367,6 @@
   {
     "name": "Larry Walker",
     "bwar": 72.7,
-    "fwar": 72.7,
     "teams": [
       "Montreal Expos",
       "Colorado Rockies",
@@ -2554,7 +2386,6 @@
   {
     "name": "Sammy Sosa",
     "bwar": 58.6,
-    "fwar": 58.6,
     "teams": [
       "Texas Rangers",
       "Chicago White Sox",
@@ -2576,7 +2407,6 @@
   {
     "name": "Vladimir Guerrero Sr.",
     "bwar": 59.5,
-    "fwar": 59.5,
     "teams": [
       "Montreal Expos",
       "Los Angeles Angels",
@@ -2597,33 +2427,8 @@
     "signing_country": "Dominican Republic"
   },
   {
-    "name": "Manny Ramirez",
-    "bwar": 69.4,
-    "fwar": 69.4,
-    "teams": [
-      "Cleveland Guardians",
-      "Boston Red Sox",
-      "Los Angeles Dodgers",
-      "Chicago White Sox",
-      "Tampa Bay Rays"
-    ],
-    "positions": [
-      "LF",
-      "OF",
-      "DH"
-    ],
-    "years_active": [
-      "1993",
-      "2011"
-    ],
-    "minor_league": false,
-    "international_signing": true,
-    "signing_country": "Dominican Republic"
-  },
-  {
     "name": "Carl Yastrzemski",
     "bwar": 96.4,
-    "fwar": 96.4,
     "teams": [
       "Boston Red Sox"
     ],
@@ -2642,7 +2447,6 @@
   {
     "name": "Ralph Kiner",
     "bwar": 50.1,
-    "fwar": 50.1,
     "teams": [
       "Pittsburgh Pirates",
       "Chicago Cubs",
@@ -2662,7 +2466,6 @@
   {
     "name": "Tim Raines",
     "bwar": 69.4,
-    "fwar": 69.4,
     "teams": [
       "Montreal Expos",
       "Chicago White Sox",
@@ -2685,7 +2488,6 @@
   {
     "name": "Billy Williams",
     "bwar": 63.2,
-    "fwar": 63.2,
     "teams": [
       "Chicago Cubs",
       "Oakland Athletics"
@@ -2704,7 +2506,6 @@
   {
     "name": "Jim Rice",
     "bwar": 47.7,
-    "fwar": 47.7,
     "teams": [
       "Boston Red Sox"
     ],
@@ -2723,7 +2524,6 @@
   {
     "name": "Harmon Killebrew",
     "bwar": 60.4,
-    "fwar": 60.4,
     "teams": [
       "Washington Senators",
       "Minnesota Twins",
@@ -2745,7 +2545,6 @@
   {
     "name": "Willie McCovey",
     "bwar": 64.5,
-    "fwar": 64.5,
     "teams": [
       "San Francisco Giants",
       "San Diego Padres",
@@ -2764,7 +2563,6 @@
   {
     "name": "Mark McGwire",
     "bwar": 62.0,
-    "fwar": 62.0,
     "teams": [
       "Oakland Athletics",
       "St. Louis Cardinals"
@@ -2780,30 +2578,8 @@
     "international_signing": false
   },
   {
-    "name": "Rafael Palmeiro",
-    "bwar": 71.9,
-    "fwar": 71.9,
-    "teams": [
-      "Chicago Cubs",
-      "Texas Rangers",
-      "Baltimore Orioles"
-    ],
-    "positions": [
-      "1B",
-      "DH"
-    ],
-    "years_active": [
-      "1986",
-      "2005"
-    ],
-    "minor_league": false,
-    "international_signing": true,
-    "signing_country": "Cuba"
-  },
-  {
     "name": "Don Mattingly",
     "bwar": 42.4,
-    "fwar": 42.4,
     "teams": [
       "New York Yankees"
     ],
@@ -2820,7 +2596,6 @@
   {
     "name": "Keith Hernandez",
     "bwar": 60.1,
-    "fwar": 60.1,
     "teams": [
       "St. Louis Cardinals",
       "New York Mets",
@@ -2839,7 +2614,6 @@
   {
     "name": "Johnny Mize",
     "bwar": 71.1,
-    "fwar": 71.1,
     "teams": [
       "St. Louis Cardinals",
       "New York Giants",
@@ -2858,7 +2632,6 @@
   {
     "name": "Jimmie Foxx",
     "bwar": 96.4,
-    "fwar": 96.4,
     "teams": [
       "Philadelphia Athletics",
       "Boston Red Sox",
@@ -2879,7 +2652,6 @@
   {
     "name": "Hank Greenberg",
     "bwar": 57.5,
-    "fwar": 57.5,
     "teams": [
       "Detroit Tigers",
       "Pittsburgh Pirates"
@@ -2898,7 +2670,6 @@
   {
     "name": "Willie Stargell",
     "bwar": 57.5,
-    "fwar": 57.5,
     "teams": [
       "Pittsburgh Pirates"
     ],
@@ -2914,31 +2685,8 @@
     "international_signing": false
   },
   {
-    "name": "Eddie Murray",
-    "bwar": 68.4,
-    "fwar": 68.4,
-    "teams": [
-      "Baltimore Orioles",
-      "Los Angeles Dodgers",
-      "New York Mets",
-      "Cleveland Guardians",
-      "Anaheim Angels"
-    ],
-    "positions": [
-      "1B",
-      "DH"
-    ],
-    "years_active": [
-      "1977",
-      "1997"
-    ],
-    "minor_league": false,
-    "international_signing": false
-  },
-  {
     "name": "Jim Palmer",
     "bwar": 68.5,
-    "fwar": 68.5,
     "teams": [
       "Baltimore Orioles"
     ],
@@ -2955,7 +2703,6 @@
   {
     "name": "Whitey Ford",
     "bwar": 57.1,
-    "fwar": 57.1,
     "teams": [
       "New York Yankees"
     ],
@@ -2972,7 +2719,6 @@
   {
     "name": "Don Drysdale",
     "bwar": 67.2,
-    "fwar": 67.2,
     "teams": [
       "Brooklyn Dodgers",
       "Los Angeles Dodgers"
@@ -2988,29 +2734,8 @@
     "international_signing": false
   },
   {
-    "name": "Juan Marichal",
-    "bwar": 61.9,
-    "fwar": 61.9,
-    "teams": [
-      "San Francisco Giants",
-      "Boston Red Sox",
-      "Los Angeles Dodgers"
-    ],
-    "positions": [
-      "SP"
-    ],
-    "years_active": [
-      "1960",
-      "1975"
-    ],
-    "minor_league": false,
-    "international_signing": true,
-    "signing_country": "Dominican Republic"
-  },
-  {
     "name": "Fergie Jenkins",
     "bwar": 84.1,
-    "fwar": 84.1,
     "teams": [
       "Philadelphia Phillies",
       "Chicago Cubs",
@@ -3030,7 +2755,6 @@
   {
     "name": "Gaylord Perry",
     "bwar": 90.0,
-    "fwar": 90.0,
     "teams": [
       "San Francisco Giants",
       "Cleveland Guardians",
@@ -3054,7 +2778,6 @@
   {
     "name": "Phil Niekro",
     "bwar": 97.0,
-    "fwar": 97.0,
     "teams": [
       "Milwaukee Braves",
       "Atlanta Braves",
@@ -3075,7 +2798,6 @@
   {
     "name": "Tom Glavine",
     "bwar": 81.4,
-    "fwar": 81.4,
     "teams": [
       "Atlanta Braves",
       "New York Mets"
@@ -3093,7 +2815,6 @@
   {
     "name": "John Smoltz",
     "bwar": 69.0,
-    "fwar": 69.0,
     "teams": [
       "Atlanta Braves",
       "Boston Red Sox",
@@ -3113,7 +2834,6 @@
   {
     "name": "Curt Schilling",
     "bwar": 79.5,
-    "fwar": 79.5,
     "teams": [
       "Baltimore Orioles",
       "Houston Astros",
@@ -3134,7 +2854,6 @@
   {
     "name": "Roy Halladay",
     "bwar": 65.4,
-    "fwar": 65.4,
     "teams": [
       "Toronto Blue Jays",
       "Philadelphia Phillies"
@@ -3152,7 +2871,6 @@
   {
     "name": "Roy Oswalt",
     "bwar": 50.1,
-    "fwar": 50.1,
     "teams": [
       "Houston Astros",
       "Philadelphia Phillies",
@@ -3172,7 +2890,6 @@
   {
     "name": "CC Sabathia",
     "bwar": 62.3,
-    "fwar": 62.3,
     "teams": [
       "Cleveland Guardians",
       "Milwaukee Brewers",
@@ -3191,7 +2908,6 @@
   {
     "name": "Felix Hernandez",
     "bwar": 50.1,
-    "fwar": 50.1,
     "teams": [
       "Seattle Mariners"
     ],
@@ -3209,7 +2925,6 @@
   {
     "name": "Justin Verlander",
     "bwar": 81.9,
-    "fwar": 81.9,
     "teams": [
       "Detroit Tigers",
       "Houston Astros",
@@ -3228,7 +2943,6 @@
   {
     "name": "Clayton Kershaw",
     "bwar": 79.9,
-    "fwar": 79.9,
     "teams": [
       "Los Angeles Dodgers"
     ],
@@ -3245,7 +2959,6 @@
   {
     "name": "Max Scherzer",
     "bwar": 73.9,
-    "fwar": 73.9,
     "teams": [
       "Arizona Diamondbacks",
       "Detroit Tigers",
@@ -3267,7 +2980,6 @@
   {
     "name": "Jacob deGrom",
     "bwar": 45.0,
-    "fwar": 45.0,
     "teams": [
       "New York Mets",
       "Texas Rangers"
@@ -3285,7 +2997,6 @@
   {
     "name": "Gerrit Cole",
     "bwar": 50.1,
-    "fwar": 50.1,
     "teams": [
       "Pittsburgh Pirates",
       "Houston Astros",
@@ -3304,7 +3015,6 @@
   {
     "name": "Zack Greinke",
     "bwar": 77.3,
-    "fwar": 77.3,
     "teams": [
       "Kansas City Royals",
       "Milwaukee Brewers",
@@ -3326,7 +3036,6 @@
   {
     "name": "David Price",
     "bwar": 40.2,
-    "fwar": 40.2,
     "teams": [
       "Tampa Bay Rays",
       "Detroit Tigers",
@@ -3347,7 +3056,6 @@
   {
     "name": "Cole Hamels",
     "bwar": 59.0,
-    "fwar": 59.0,
     "teams": [
       "Philadelphia Phillies",
       "Texas Rangers",
@@ -3367,7 +3075,6 @@
   {
     "name": "Jon Lester",
     "bwar": 44.0,
-    "fwar": 44.0,
     "teams": [
       "Boston Red Sox",
       "Oakland Athletics",
@@ -3388,7 +3095,6 @@
   {
     "name": "Trevor Hoffman",
     "bwar": 28.0,
-    "fwar": 28.0,
     "teams": [
       "Florida Marlins",
       "San Diego Padres",
@@ -3407,7 +3113,6 @@
   {
     "name": "Lee Smith",
     "bwar": 29.3,
-    "fwar": 29.3,
     "teams": [
       "Chicago Cubs",
       "Boston Red Sox",
@@ -3431,7 +3136,6 @@
   {
     "name": "Dennis Eckersley",
     "bwar": 62.5,
-    "fwar": 62.5,
     "teams": [
       "Cleveland Guardians",
       "Boston Red Sox",
@@ -3453,7 +3157,6 @@
   {
     "name": "Rollie Fingers",
     "bwar": 25.6,
-    "fwar": 25.6,
     "teams": [
       "Oakland Athletics",
       "San Diego Padres",
@@ -3472,7 +3175,6 @@
   {
     "name": "Bruce Sutter",
     "bwar": 24.5,
-    "fwar": 24.5,
     "teams": [
       "Chicago Cubs",
       "St. Louis Cardinals",
@@ -3491,7 +3193,6 @@
   {
     "name": "Goose Gossage",
     "bwar": 41.5,
-    "fwar": 41.5,
     "teams": [
       "Chicago White Sox",
       "Pittsburgh Pirates",
@@ -3516,7 +3217,6 @@
   {
     "name": "Billy Wagner",
     "bwar": 27.7,
-    "fwar": 27.7,
     "teams": [
       "Houston Astros",
       "Philadelphia Phillies",
@@ -3537,7 +3237,6 @@
   {
     "name": "Jonathan Papelbon",
     "bwar": 23.4,
-    "fwar": 23.4,
     "teams": [
       "Boston Red Sox",
       "Philadelphia Phillies",
@@ -3556,7 +3255,6 @@
   {
     "name": "Craig Kimbrel",
     "bwar": 22.1,
-    "fwar": 22.1,
     "teams": [
       "Atlanta Braves",
       "San Diego Padres",
@@ -3580,7 +3278,6 @@
   {
     "name": "Kenley Jansen",
     "bwar": 20.3,
-    "fwar": 20.3,
     "teams": [
       "Los Angeles Dodgers",
       "Atlanta Braves",
@@ -3600,7 +3297,6 @@
   {
     "name": "Francisco Rodriguez",
     "bwar": 25.6,
-    "fwar": 25.6,
     "teams": [
       "Los Angeles Angels",
       "New York Mets",
@@ -3623,7 +3319,6 @@
   {
     "name": "Jose Valverde",
     "bwar": 12.3,
-    "fwar": 12.3,
     "teams": [
       "Arizona Diamondbacks",
       "Detroit Tigers",
@@ -3644,7 +3339,6 @@
   {
     "name": "Fernando Rodney",
     "bwar": 10.2,
-    "fwar": 10.2,
     "teams": [
       "Detroit Tigers",
       "Los Angeles Angels",
