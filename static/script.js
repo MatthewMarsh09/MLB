@@ -40,7 +40,7 @@ async function loadPlayers() {
     loading.style.display = 'block';
     
     try {
-        const res = await fetch('data/players.json');
+        const res = await fetch('players.json');
         if (!res.ok) throw new Error('Failed to load data');
         const players = await res.json();
         
