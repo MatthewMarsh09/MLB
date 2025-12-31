@@ -40,13 +40,16 @@ async def get_players(
     team: Optional[str] = Query(None),
     position: Optional[str] = Query(None),
     min_fwar: Optional[float] = Query(0),
-    limit: Optional[int] = Query(100)
+    limit: Optional[int] = Query(500)
 ):
     if not DATA_FILE.exists():
-        return {"players": [], "message": "No data file found."}
+        return {"players": [], "total": 0, "message": "No data file found. Run: python data_fetcher.py"}
     
-    with open(DATA_FILE, "r") as f:
-        players = json.load(f)
+    try:
+        with open(DATA_FILE, "r") as f:
+            players = json.load(f)
+    except Exception as e:
+        return {"players": [], "total": 0, "message": f"Error loading data: {str(e)}"}
     
     filtered = players
     if team:

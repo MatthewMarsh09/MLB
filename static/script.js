@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8000/api';
+const API_BASE = window.location.origin + '/api';
 let allPlayers = [], filteredPlayers = [];
 
 async function loadTeams() {
@@ -45,7 +45,14 @@ async function loadPlayers() {
         params.append('limit', 500);
         
         const res = await fetch(`${API_BASE}/players?${params}`);
+        if (!res.ok) {
+            throw new Error(`HTTP ${res.status}`);
+        }
         const data = await res.json();
+        
+        if (data.message) {
+            throw new Error(data.message);
+        }
         
         allPlayers = data.players || [];
         filteredPlayers = allPlayers;
@@ -54,8 +61,9 @@ async function loadPlayers() {
         updateStats();
     } catch (e) {
         console.error('Error loading players:', e);
+        const msg = e.message || 'Error loading data. Make sure the server is running.';
         document.getElementById('players-tbody').innerHTML = 
-            '<tr><td colspan="8" style="text-align: center; color: red;">Error loading data.</td></tr>';
+            `<tr><td colspan="8" style="text-align: center; color: #ff00ff;">${msg}</td></tr>`;
     } finally {
         loading.style.display = 'none';
     }
