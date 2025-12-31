@@ -14,22 +14,43 @@ A web tool to explore players with the highest fWAR (FanGraphs Wins Above Replac
 
 ## Setup
 
-1. Install dependencies:
+1. Clone the repository:
+```bash
+git clone <your-repo-url>
+cd mlb-fwar-explorer
+```
+
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Generate sample data (or integrate with real data sources):
+3. Generate sample data (or integrate with real data sources):
 ```bash
 python data_fetcher.py
 ```
 
-3. Run the server:
+4. Run the server:
 ```bash
 python app.py
 ```
 
-4. Open your browser to `http://localhost:8000`
+5. Open your browser to `http://localhost:8000`
+
+## Sharing on GitHub
+
+To push this repository to GitHub:
+
+1. Create a new repository on GitHub
+2. Add the remote:
+```bash
+git remote add origin https://github.com/yourusername/mlb-fwar-explorer.git
+```
+3. Push to GitHub:
+```bash
+git branch -M main
+git push -u origin main
+```
 
 ## Data Sources
 
