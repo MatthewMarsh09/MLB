@@ -192,6 +192,12 @@ td:nth-child(3) {
     font-size: 1.1em;
 }
 
+td:nth-child(4) {
+    font-weight: 700;
+    color: #ff00ff;
+    font-size: 1.1em;
+}
+
 .badge {
     display: inline-block;
     padding: 4px 10px;
