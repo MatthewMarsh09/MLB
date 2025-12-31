@@ -1,38 +1,32 @@
 const API_BASE = 'http://localhost:8000/api';
-
-let allPlayers = [];
-let filteredPlayers = [];
+let allPlayers = [], filteredPlayers = [];
 
 async function loadTeams() {
     try {
-        const response = await fetch(`${API_BASE}/teams`);
-        const data = await response.json();
+        const res = await fetch(`${API_BASE}/teams`);
+        const data = await res.json();
         const select = document.getElementById('team-filter');
         data.teams.forEach(team => {
-            const option = document.createElement('option');
-            option.value = team;
-            option.textContent = team;
-            select.appendChild(option);
+            const opt = document.createElement('option');
+            opt.value = team;
+            opt.textContent = team;
+            select.appendChild(opt);
         });
-    } catch (error) {
-        console.error('Error loading teams:', error);
-    }
+    } catch (e) { console.error('Error loading teams:', e); }
 }
 
 async function loadPositions() {
     try {
-        const response = await fetch(`${API_BASE}/positions`);
-        const data = await response.json();
+        const res = await fetch(`${API_BASE}/positions`);
+        const data = await res.json();
         const select = document.getElementById('position-filter');
-        data.positions.forEach(position => {
-            const option = document.createElement('option');
-            option.value = position;
-            option.textContent = position;
-            select.appendChild(option);
+        data.positions.forEach(pos => {
+            const opt = document.createElement('option');
+            opt.value = pos;
+            opt.textContent = pos;
+            select.appendChild(opt);
         });
-    } catch (error) {
-        console.error('Error loading positions:', error);
-    }
+    } catch (e) { console.error('Error loading positions:', e); }
 }
 
 async function loadPlayers() {
@@ -50,18 +44,18 @@ async function loadPlayers() {
         if (minFwar > 0) params.append('min_fwar', minFwar);
         params.append('limit', 500);
         
-        const response = await fetch(`${API_BASE}/players?${params}`);
-        const data = await response.json();
+        const res = await fetch(`${API_BASE}/players?${params}`);
+        const data = await res.json();
         
         allPlayers = data.players || [];
         filteredPlayers = allPlayers;
         
         displayPlayers();
         updateStats();
-    } catch (error) {
-        console.error('Error loading players:', error);
+    } catch (e) {
+        console.error('Error loading players:', e);
         document.getElementById('players-tbody').innerHTML = 
-            '<tr><td colspan="8" style="text-align: center; color: red;">Error loading data. Make sure the server is running.</td></tr>';
+            '<tr><td colspan="8" style="text-align: center; color: red;">Error loading data.</td></tr>';
     } finally {
         loading.style.display = 'none';
     }
@@ -71,24 +65,24 @@ function displayPlayers() {
     const tbody = document.getElementById('players-tbody');
     
     if (filteredPlayers.length === 0) {
-        tbody.innerHTML = '<tr><td colspan="8" style="text-align: center;">No players found matching your filters.</td></tr>';
+        tbody.innerHTML = '<tr><td colspan="8" style="text-align: center;">No players found.</td></tr>';
         return;
     }
     
-    tbody.innerHTML = filteredPlayers.map((player, index) => {
-        const teams = Array.isArray(player.teams) ? player.teams : [player.teams].filter(Boolean);
-        const positions = Array.isArray(player.positions) ? player.positions : [player.positions].filter(Boolean);
+    tbody.innerHTML = filteredPlayers.map((p, i) => {
+        const teams = Array.isArray(p.teams) ? p.teams : [p.teams].filter(Boolean);
+        const positions = Array.isArray(p.positions) ? p.positions : [p.positions].filter(Boolean);
         
         return `
             <tr>
-                <td>${index + 1}</td>
-                <td><strong>${player.name || 'Unknown'}</strong></td>
-                <td>${player.fwar?.toFixed(1) || '0.0'}</td>
+                <td>${i + 1}</td>
+                <td><strong>${p.name || 'Unknown'}</strong></td>
+                <td>${p.fwar?.toFixed(1) || '0.0'}</td>
                 <td>${teams.map(t => `<span class="badge badge-team">${t}</span>`).join('')}</td>
-                <td>${positions.map(p => `<span class="badge badge-position">${p}</span>`).join('')}</td>
-                <td>${player.years_active?.join(', ') || 'N/A'}</td>
-                <td><span class="badge ${player.minor_league ? 'badge-yes' : 'badge-no'}">${player.minor_league ? 'Yes' : 'No'}</span></td>
-                <td>${player.international_signing ? `<span class="badge badge-yes">${player.signing_country || 'Yes'}</span>` : '<span class="badge badge-no">No</span>'}</td>
+                <td>${positions.map(pos => `<span class="badge badge-position">${pos}</span>`).join('')}</td>
+                <td>${p.years_active?.join(', ') || 'N/A'}</td>
+                <td><span class="badge ${p.minor_league ? 'badge-yes' : 'badge-no'}">${p.minor_league ? 'Yes' : 'No'}</span></td>
+                <td>${p.international_signing ? `<span class="badge badge-yes">${p.signing_country || 'Yes'}</span>` : '<span class="badge badge-no">No</span>'}</td>
             </tr>
         `;
     }).join('');
@@ -107,8 +101,6 @@ document.getElementById('reset-filters').addEventListener('click', () => {
     loadPlayers();
 });
 
-// Load initial data
 loadTeams();
 loadPositions();
 loadPlayers();
-
