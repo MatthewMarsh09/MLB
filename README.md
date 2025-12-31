@@ -25,10 +25,21 @@ cd mlb-fwar-explorer
 pip install -r requirements.txt
 ```
 
-3. Generate sample data (or integrate with real data sources):
+3. Generate player data:
 ```bash
+# Generate 1000 players (default)
 python data_fetcher.py
+
+# Or specify a custom number
+python data_fetcher.py 2000
 ```
+
+The data fetcher automatically generates comprehensive player data with:
+- Realistic fWAR distributions (top 1000+ players)
+- All teams each player has played for
+- International signings (South America, Japan, etc.)
+- Minor league players
+- Historical team name normalization
 
 4. Run the server:
 ```bash
